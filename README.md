@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-┌・💻 Python Dev Junior
+┌・💻 Python Dev
 
 ├・🤖 Discord Bot Creator
 
