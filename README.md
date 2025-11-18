@@ -1,12 +1,17 @@
 ### Hi there 👋
 
-┌・💻 Python Dev / javascript
+I code for fun.
+I build things because I enjoy it, because I’m curious, and sometimes simply because I’m bored.
 
-├・🤖 Discord Bot Creator
+Here you’ll find a bit of everything:
 
-├・⚙️ Usefull and Shit Stuff Creeator
+random experimental stuff,
 
-└・👨‍🎓 Always learning new things
+tiny projects that make no sense,
+
+and sometimes, against all odds, tools that are actually useful.
+
+
 <!--
 **Pitusd-V2/Pitusd-V2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
