@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-I code for fun.
-I build things because I enjoy it, because I’m curious, and sometimes simply because I’m bored.
+Sviluppo per passione.
+Scrivo codice perché mi diverte, perché mi incuriosisce e perché spesso… mi annoio.
 
-Here you’ll find a bit of everything:
+Qui troverai un po’ di tutto:
 
-random experimental stuff,
+cazzate sperimentali, idee random nate alle 3 di notte,
 
-tiny projects that make no sense,
+mini-progetti senza senso,
 
-and sometimes, against all odds, tools that are actually useful.
+ma anche strumenti che, per qualche miracolo, risultano davvero utili.
 
+Mi piace imparare facendo, sbagliare, correggere, smontare e ricostruire.
+Se qualcosa qui dentro ti ispira, ti fa ridere o ti torna utile: missione compiuta.
 
 <!--
 **Pitusd-V2/Pitusd-V2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
